@@ -1,0 +1,18 @@
+button {
+  border: none;
+  background-color: #fff;
+}
+
+#hot.active {
+  background-color: #f00;
+  color: #fff;
+}
+
+#iced.active {
+  background-color: #00f;
+  color: #fff;
+}
+
+.hidden {
+  display: none;
+}

@@ -1,0 +1,11 @@
+#container {
+  display: inline;
+}
+
+#btn {
+  border: none;
+  cursor: pointer;
+  background-color: transparent;
+  color: #888;
+  padding: 0;
+}

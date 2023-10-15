@@ -1,0 +1,19 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 1000px;
+}
+
+#btn {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  width: 2rem;
+  cursor: pointer;
+}
+
+.hidden {
+  display: none;
+}
